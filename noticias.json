@@ -1,1 +1,12 @@
-{"activo": true, "titulo": "VERSIÓN COMPLETA: 3.99 SOLO HASTA EL VIERNES", "texto": "La Casona al aire libre y sonido renovado. Precio de lanzamiento por 72 h; luego 4.99 y sigue subiendo.", "boton": "Conseguirla en itch", "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha"}
+{
+  "activo": true,
+  "titulo": "Apaga la luz. La toma sigue.",
+  "texto": "Ya salió la 0.0.0.32. Linterna renovada, luces rompibles y un nuevo manejo de la Glock y el AK. Corte de señal ya se juega en los dos mapas de la edición completa.",
+  "boton": "Ver la actualización",
+  "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha/devlog/1790396/apaga-la-luz-la-toma-sigue-flow-fire-v00032",
+  "en": {
+    "titulo": "Lights out. The take goes on.",
+    "texto": "0.0.0.32 is out. A wider flashlight beam, breakable lights and reworked Glock and AK handling. Signal Cut now plays on both maps in the full edition.",
+    "boton": "See the update"
+  }
+}
