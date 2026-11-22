@@ -1,12 +1,12 @@
 {
   "activo": true,
-  "titulo": "Apaga la luz. La toma sigue.",
-  "texto": "Ya salió la 0.0.0.32. Linterna renovada, luces rompibles y un nuevo manejo de la Glock y el AK. Corte de señal ya se juega en los dos mapas de la edición completa.",
-  "boton": "Ver la actualización",
-  "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha/devlog/1790396/apaga-la-luz-la-toma-sigue-flow-fire-v00032",
+  "titulo": "Ya salió la 0.0.0.34 — Edición completa",
+  "texto": "Imagen más real, bots que flanquean y lobby nuevo. Desbloquea La Casona, Corte de señal 2v2 y 4v4 con dron y todo lo nuevo en itch.io (tarjeta y PayPal).",
+  "boton": "Ver edición completa",
+  "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
   "en": {
-    "titulo": "Lights out. The take goes on.",
-    "texto": "0.0.0.32 is out. A wider flashlight beam, breakable lights and reworked Glock and AK handling. Signal Cut now plays on both maps in the full edition.",
-    "boton": "See the update"
+    "titulo": "v0.0.0.34 is live — Full Edition out now",
+    "texto": "Closer to real footage, smarter bots and a new lobby. Unlock La Casona, 2v2/4v4 Signal Cut with drone and every future update on itch.io (Card & PayPal).",
+    "boton": "Get the Full Edition"
   }
 }
