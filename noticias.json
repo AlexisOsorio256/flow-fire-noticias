@@ -1,54 +1,59 @@
 {
-  "activo": true,
-  "version": "0.0.0.34",
-  "titulo": "Ya viene la próxima versión",
-  "texto": "Cada balazo levanta polvo, los caídos caen más reales y los bots son más listos. La edición completa trae La Casona, Contacto directo (2 vs 2 y 4 vs 4 con dron), y todas las versiones que vengan. Paga con tarjeta o PayPal en itch.io.",
-  "boton": "Ver edición completa",
-  "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
-  "en": {
-    "titulo": "The next update is coming",
-    "texto": "Every shot kicks up dust, bodies fall more like real ones and the bots are smarter. The Full Edition adds La Casona, Direct Contact (2v2 and 4v4 with drone), and every update that comes next. Card or PayPal on itch.io.",
-    "boton": "Get the Full Edition"
-  },
-  "demo": {
-    "activo": true,
-    "titulo": "Ya viene la próxima versión",
-    "texto": "Cada balazo levanta polvo, los caídos caen más reales y los bots son más listos. La edición completa trae La Casona, Contacto directo (2 vs 2 y 4 vs 4 con dron), y todas las versiones que vengan. Paga con tarjeta o PayPal en itch.io.",
-    "boton": "Ver edición completa",
-    "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
-    "en": {
-      "titulo": "The next update is coming",
-      "texto": "Every shot kicks up dust, bodies fall more like real ones and the bots are smarter. The Full Edition adds La Casona, Direct Contact (2v2 and 4v4 with drone), and every update that comes next. Card or PayPal on itch.io.",
-      "boton": "Get the Full Edition"
-    }
-  },
-  "completa": {
-    "activo": true,
-    "titulo": "Gracias por apoyar Flow Fire",
-    "texto": "Tu edición completa recibe todas las versiones que vengan, sin pagar de nuevo. La próxima trae polvo en cada balazo, caídas más reales y bots más listos. ¿Qué te ha parecido? Déjanos tu opinión en itch.io.",
-    "boton": "Dejar opinión en itch.io",
-    "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha#comments",
-    "en": {
-      "titulo": "Thanks for supporting Flow Fire",
-      "texto": "Your Full Edition gets every update that comes next, at no extra cost. The next one brings dust on every shot, more real falls and smarter bots. What do you think so far? Tell us on itch.io.",
-      "boton": "Leave feedback on itch.io"
-    }
-  },
-  "versiones": [
-    {
-      "ver": "0.0.0.34",
-      "resumen": "Se ve más real, los bots son más listos, lobby nuevo, armería con granada y la luz de La Casona cambia en cada partida.",
-      "en": "Looks more real, smarter bots, a new lobby, an armory with a grenade and La Casona's light changes every match."
-    },
-    {
-      "ver": "0.0.0.33",
-      "resumen": "Recarga de escopeta mejorada, partidas de equipos más parejas y subes escaleras sin atorarte.",
-      "en": "Better shotgun reload, fairer team matches and no more getting stuck on stairs."
-    },
-    {
-      "ver": "0.0.0.32",
-      "resumen": "Las cosas se rompen, el humo del tiroteo se queda en el aire, ventanas que se rompen y los bots hablan.",
-      "en": "Things break, gunfire smoke hangs in the air, windows shatter and the bots talk."
-    }
-  ]
+    "activo":  true,
+    "version":  "0.0.0.35",
+    "titulo":  "Ya viene la próxima versión",
+    "texto":  "Cada balazo levanta polvo, los caídos caen más reales y los bots son más listos. La edición completa trae La Casona, Contacto directo (2 vs 2 y 4 vs 4 con dron), y todas las versiones que vengan. Paga con tarjeta o PayPal en itch.io.",
+    "boton":  "Ver edición completa",
+    "enlace":  "https://masterinc.itch.io/flow-fire-pre-alpha",
+    "en":  {
+               "titulo":  "The next update is coming",
+               "texto":  "Every shot kicks up dust, bodies fall more like real ones and the bots are smarter. The Full Edition adds La Casona, Direct Contact (2v2 and 4v4 with drone), and every update that comes next. Card or PayPal on itch.io.",
+               "boton":  "Get the Full Edition"
+           },
+    "demo":  {
+                 "activo":  true,
+                 "titulo":  "Ya viene la próxima versión",
+                 "texto":  "Cada balazo levanta polvo, los caídos caen más reales y los bots son más listos. La edición completa trae La Casona, Contacto directo (2 vs 2 y 4 vs 4 con dron), y todas las versiones que vengan. Paga con tarjeta o PayPal en itch.io.",
+                 "boton":  "Ver edición completa",
+                 "enlace":  "https://masterinc.itch.io/flow-fire-pre-alpha",
+                 "en":  {
+                            "titulo":  "The next update is coming",
+                            "texto":  "Every shot kicks up dust, bodies fall more like real ones and the bots are smarter. The Full Edition adds La Casona, Direct Contact (2v2 and 4v4 with drone), and every update that comes next. Card or PayPal on itch.io.",
+                            "boton":  "Get the Full Edition"
+                        }
+             },
+    "completa":  {
+                     "activo":  true,
+                     "titulo":  "Gracias por apoyar Flow Fire",
+                     "texto":  "Tu edición completa recibe todas las versiones que vengan, sin pagar de nuevo. La próxima trae polvo en cada balazo, caídas más reales y bots más listos. ¿Qué te ha parecido? Déjanos tu opinión en itch.io.",
+                     "boton":  "Dejar opinión en itch.io",
+                     "enlace":  "https://masterinc.itch.io/flow-fire-pre-alpha#comments",
+                     "en":  {
+                                "titulo":  "Thanks for supporting Flow Fire",
+                                "texto":  "Your Full Edition gets every update that comes next, at no extra cost. The next one brings dust on every shot, more real falls and smarter bots. What do you think so far? Tell us on itch.io.",
+                                "boton":  "Leave feedback on itch.io"
+                            }
+                 },
+    "versiones":  [
+                      {
+                          "ver":  "0.0.0.35",
+                          "resumen":  "Nuevo modo Contacto directo (2 vs 2 y 4 vs 4 con dron), agarre y desgaste de armas en el lobby, bots que esquivan objetos y rodean caídos, y pestaña Novedades.",
+                          "en":  "New Direct Contact mode (2v2 and 4v4 with drone), improved weapon grip and wear in the lobby, bots that clear floor obstacles and avoid fallen bodies, and News tab."
+                      },
+                      {
+                          "ver":  "0.0.0.34",
+                          "resumen":  "Se ve más real, los bots son más listos, lobby nuevo, armería con granada y la luz de La Casona cambia en cada partida.",
+                          "en":  "Looks more real, smarter bots, a new lobby, an armory with a grenade and La Casona\u0027s light changes every match."
+                      },
+                      {
+                          "ver":  "0.0.0.33",
+                          "resumen":  "Recarga de escopeta mejorada, partidas de equipos más parejas y subes escaleras sin atorarte.",
+                          "en":  "Better shotgun reload, fairer team matches and no more getting stuck on stairs."
+                      },
+                      {
+                          "ver":  "0.0.0.32",
+                          "resumen":  "Las cosas se rompen, el humo del tiroteo se queda en el aire, ventanas que se rompen y los bots hablan.",
+                          "en":  "Things break, gunfire smoke hangs in the air, windows shatter and the bots talk."
+                      }
+                  ]
 }
