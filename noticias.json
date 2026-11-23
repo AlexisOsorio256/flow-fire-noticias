@@ -1,54 +1,54 @@
 {
   "activo": true,
   "version": "0.0.0.34",
-  "titulo": "Ya salió la 0.0.0.34 — Edición completa",
-  "texto": "Imagen más real, bots que flanquean y lobby nuevo. Desbloquea La Casona, Duelo de escuadras 2v2 y 4v4 con dron y todo lo nuevo en itch.io (tarjeta y PayPal).",
+  "titulo": "Ya viene la próxima versión",
+  "texto": "Cada balazo levanta polvo, los caídos caen más reales y los bots son más listos. La edición completa trae La Casona, partidas de equipos 2 contra 2 y 4 contra 4 con dron, y todas las versiones que vengan. Paga con tarjeta o PayPal en itch.io.",
   "boton": "Ver edición completa",
   "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
   "en": {
-    "titulo": "v0.0.0.34 is live — Full Edition out now",
-    "texto": "Closer to real footage, smarter bots and a new lobby. Unlock La Casona, 2v2/4v4 Squad Duel with drone and every future update on itch.io (Card & PayPal).",
+    "titulo": "The next update is coming",
+    "texto": "Every shot kicks up dust, bodies fall more like real ones and the bots are smarter. The Full Edition adds La Casona, 2v2 and 4v4 team matches with a drone, and every update that comes next. Card or PayPal on itch.io.",
     "boton": "Get the Full Edition"
   },
   "demo": {
     "activo": true,
-    "titulo": "Ya salió la 0.0.0.34 — Edición completa",
-    "texto": "Imagen más real, bots que flanquean y lobby nuevo. Desbloquea La Casona, Duelo de escuadras 2v2 y 4v4 con dron y todo lo nuevo en itch.io (tarjeta y PayPal).",
+    "titulo": "Ya viene la próxima versión",
+    "texto": "Cada balazo levanta polvo, los caídos caen más reales y los bots son más listos. La edición completa trae La Casona, partidas de equipos 2 contra 2 y 4 contra 4 con dron, y todas las versiones que vengan. Paga con tarjeta o PayPal en itch.io.",
     "boton": "Ver edición completa",
     "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
     "en": {
-      "titulo": "v0.0.0.34 is live — Full Edition out now",
-      "texto": "Closer to real footage, smarter bots and a new lobby. Unlock La Casona, 2v2/4v4 Squad Duel with drone and every future update on itch.io (Card & PayPal).",
+      "titulo": "The next update is coming",
+      "texto": "Every shot kicks up dust, bodies fall more like real ones and the bots are smarter. The Full Edition adds La Casona, 2v2 and 4v4 team matches with a drone, and every update that comes next. Card or PayPal on itch.io.",
       "boton": "Get the Full Edition"
     }
   },
   "completa": {
     "activo": true,
     "titulo": "Gracias por apoyar Flow Fire",
-    "texto": "Tu edición completa incluye todas las actualizaciones futuras. Califica el juego, deja tu opinión en itch.io y síguenos en canales oficiales.",
+    "texto": "Tu edición completa recibe todas las versiones que vengan, sin pagar de nuevo. La próxima trae polvo en cada balazo, caídas más reales y bots más listos. ¿Qué te ha parecido? Déjanos tu opinión en itch.io.",
     "boton": "Dejar opinión en itch.io",
     "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha#comments",
     "en": {
       "titulo": "Thanks for supporting Flow Fire",
-      "texto": "Your Full Edition includes every upcoming update. Rate the game, leave feedback on itch.io and follow our official channels.",
+      "texto": "Your Full Edition gets every update that comes next, at no extra cost. The next one brings dust on every shot, more real falls and smarter bots. What do you think so far? Tell us on itch.io.",
       "boton": "Leave feedback on itch.io"
     }
   },
   "versiones": [
     {
       "ver": "0.0.0.34",
-      "resumen": "Lobby 3D, armería con M67, bots que flanquean, luz al azar en La Casona y pulido visual.",
-      "en": "3D lobby, armory with M67, flanking bots, random lighting in La Casona and visual polish."
+      "resumen": "Se ve más real, los bots son más listos, lobby nuevo, armería con granada y la luz de La Casona cambia en cada partida.",
+      "en": "Looks more real, smarter bots, a new lobby, an armory with a grenade and La Casona's light changes every match."
     },
     {
       "ver": "0.0.0.33",
-      "resumen": "Escopeta 12ga con recarga mejorada, balance 2v2/4v4 y colisiones suaves en escaleras.",
-      "en": "12ga shotgun reload improvements, 2v2/4v4 balance and smoother stair movement."
+      "resumen": "Recarga de escopeta mejorada, partidas de equipos más parejas y subes escaleras sin atorarte.",
+      "en": "Better shotgun reload, fairer team matches and no more getting stuck on stairs."
     },
     {
       "ver": "0.0.0.32",
-      "resumen": "Destrucción física, humo de tiroteo persistente, ventanas rompibles y voces tácticas.",
-      "en": "Physical destruction, persistent gunfire smoke, breakable windows and tactical voices."
+      "resumen": "Las cosas se rompen, el humo del tiroteo se queda en el aire, ventanas que se rompen y los bots hablan.",
+      "en": "Things break, gunfire smoke hangs in the air, windows shatter and the bots talk."
     }
   ]
 }
