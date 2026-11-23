@@ -2,35 +2,35 @@
     "activo": true,
     "version": "0.0.0.35",
     "titulo": "Ya salió la versión nueva",
-    "texto": "Cada balazo levanta polvo, los caídos caen más reales y los bots son más listos: ya no se atoran en las puertas. La edición completa trae La Casona, Contacto directo (equipos de 2 contra 2 y 4 contra 4, con dron si caes) y todas las versiones que vengan. Paga con tarjeta o PayPal en itch.io.",
+    "texto": "Cada balazo levanta polvo, los caídos caen más reales y los bots son más listos: ya no se atoran en las puertas. La edición completa trae La Casona, Contacto directo (equipos de 2 contra 2 y 4 contra 4, con dron si caes) y todas las versiones que vengan. Y ya viene más: bots con chaleco antibalas. Paga con tarjeta o PayPal en itch.io.",
     "boton": "Ver edición completa",
     "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
     "en": {
         "titulo": "The new update is out",
-        "texto": "Every shot kicks up dust, bodies fall more like real ones and the bots are smarter: no more getting stuck in doors. The Full Edition adds La Casona, Direct Contact (team matches, 2v2 and 4v4, with a drone if you go down) and every update that comes next. Card or PayPal on itch.io.",
+        "texto": "Every shot kicks up dust, bodies fall more like real ones and the bots are smarter: no more getting stuck in doors. The Full Edition adds La Casona, Direct Contact (team matches, 2v2 and 4v4, with a drone if you go down) and every update that comes next. And more is coming: bots with bulletproof vests. Card or PayPal on itch.io.",
         "boton": "Get the Full Edition"
     },
     "demo": {
         "activo": true,
         "titulo": "Ya salió la versión nueva",
-        "texto": "Cada balazo levanta polvo, los caídos caen más reales y los bots son más listos: ya no se atoran en las puertas. La edición completa trae La Casona, Contacto directo (equipos de 2 contra 2 y 4 contra 4, con dron si caes) y todas las versiones que vengan. Paga con tarjeta o PayPal en itch.io.",
+        "texto": "Cada balazo levanta polvo, los caídos caen más reales y los bots son más listos: ya no se atoran en las puertas. La edición completa trae La Casona, Contacto directo (equipos de 2 contra 2 y 4 contra 4, con dron si caes) y todas las versiones que vengan. Y ya viene más: bots con chaleco antibalas. Paga con tarjeta o PayPal en itch.io.",
         "boton": "Ver edición completa",
         "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
         "en": {
             "titulo": "The new update is out",
-            "texto": "Every shot kicks up dust, bodies fall more like real ones and the bots are smarter: no more getting stuck in doors. The Full Edition adds La Casona, Direct Contact (team matches, 2v2 and 4v4, with a drone if you go down) and every update that comes next. Card or PayPal on itch.io.",
+            "texto": "Every shot kicks up dust, bodies fall more like real ones and the bots are smarter: no more getting stuck in doors. The Full Edition adds La Casona, Direct Contact (team matches, 2v2 and 4v4, with a drone if you go down) and every update that comes next. And more is coming: bots with bulletproof vests. Card or PayPal on itch.io.",
             "boton": "Get the Full Edition"
         }
     },
     "completa": {
         "activo": true,
         "titulo": "Ya tienes la versión nueva",
-        "texto": "Gracias por apoyar Flow Fire. Ya llegó Contacto directo, el polvo en cada balazo, caídas más reales y bots más listos. Todo lo que venga también es tuyo, sin pagar de nuevo. ¿Qué te pareció? Déjanos tu opinión en itch.io.",
+        "texto": "Gracias por apoyar Flow Fire. Ya llegó Contacto directo, el polvo en cada balazo, caídas más reales y bots más listos. Ya viene la siguiente, con bots con chaleco antibalas, y también es tuya, sin pagar de nuevo. ¿Qué te pareció? Déjanos tu opinión en itch.io.",
         "boton": "Dejar opinión en itch.io",
         "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha#comments",
         "en": {
             "titulo": "You've got the new update",
-            "texto": "Thanks for supporting Flow Fire. Direct Contact is here, plus dust on every shot, more real falls and smarter bots. Everything that comes next is yours too, at no extra cost. What do you think? Tell us on itch.io.",
+            "texto": "Thanks for supporting Flow Fire. Direct Contact is here, plus dust on every shot, more real falls and smarter bots. The next one, with bots in bulletproof vests, is yours too, at no extra cost. What do you think? Tell us on itch.io.",
             "boton": "Leave feedback on itch.io"
         }
     },
