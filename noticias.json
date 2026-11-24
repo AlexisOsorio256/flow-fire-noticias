@@ -1,59 +1,69 @@
 {
+  "activo": true,
+  "version": "0.0.0.36",
+  "titulo": "Ya salió lo nuevo",
+  "texto": "Ya está la 0.0.0.36 y se siente otra cosa: cada disparo pega más duro, ves justo dónde cae cada balazo y no todos caen igual; a veces ni así caen. Si te gustó la Casa de tiro, en la edición completa te esperan La Casona, donde eliges la luz antes de entrar, y Contacto directo con dron. Hoy cuesta 4.99 USD y va a subir conforme lleguen mapas y modos nuevos.",
+  "boton": "Ver edición completa",
+  "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
+  "en": {
+    "titulo": "The new stuff is out",
+    "texto": "0.0.0.36 is out and it feels different: every shot hits harder, you see exactly where each bullet lands and they don't all go down the same way; sometimes they don't go down at all. If you liked the Shooting House, the Full Edition has La Casona, where you pick the light before going in, and Direct Contact with a drone. It's 4.99 USD today and the price goes up as new maps and modes land.",
+    "boton": "Get the Full Edition"
+  },
+  "demo": {
     "activo": true,
-    "version": "0.0.0.35",
-    "titulo": "Ya casi sale lo nuevo",
-    "texto": "Acabo de jugar la versión que viene y se siente otra cosa: la cámara se dobla como una bodycam de verdad, los balazos dejan marca donde pegan y nadie cae igual que otro. Ya casi sale. Si te gustó la Casa de tiro, en la edición completa te esperan La Casona y Contacto directo con dron. Hoy cuesta 4.99 USD y va a subir cuando salga lo nuevo.",
+    "titulo": "Ya salió lo nuevo",
+    "texto": "Ya está la 0.0.0.36 y se siente otra cosa: cada disparo pega más duro, ves justo dónde cae cada balazo y no todos caen igual; a veces ni así caen. Si te gustó la Casa de tiro, en la edición completa te esperan La Casona, donde eliges la luz antes de entrar, y Contacto directo con dron. Hoy cuesta 4.99 USD y va a subir conforme lleguen mapas y modos nuevos.",
     "boton": "Ver edición completa",
     "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
     "en": {
-        "titulo": "The new stuff is almost here",
-        "texto": "I just played the next version and it feels different: the camera bends like a real bodycam, bullets leave a mark where they hit and nobody falls the same way twice. It's almost out. If you liked the Shooting House, the Full Edition has La Casona and Direct Contact with a drone. It's 4.99 USD today and the price goes up when the new stuff lands.",
-        "boton": "Get the Full Edition"
+      "titulo": "The new stuff is out",
+      "texto": "0.0.0.36 is out and it feels different: every shot hits harder, you see exactly where each bullet lands and they don't all go down the same way; sometimes they don't go down at all. If you liked the Shooting House, the Full Edition has La Casona, where you pick the light before going in, and Direct Contact with a drone. It's 4.99 USD today and the price goes up as new maps and modes land.",
+      "boton": "Get the Full Edition"
+    }
+  },
+  "completa": {
+    "activo": true,
+    "titulo": "Ya salió la 0.0.0.36",
+    "texto": "Gracias por jugar desde tan temprano. Ya tienes la versión más grande hasta hoy: cada disparo pega más duro, reaccionan a donde les pegas y ahora eliges la luz de La Casona antes de entrar. Si tienes un minuto, califícalo en itch.io y cuéntame qué se sintió: eso ayuda a que más gente lo encuentre.",
+    "boton": "Calificar en itch.io",
+    "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha#comments",
+    "en": {
+      "titulo": "0.0.0.36 is out",
+      "texto": "Thanks for playing this early. You now have the biggest version yet: every shot hits harder, they react to where you hit them and you pick La Casona's light before going in. If you have a minute, rate it on itch.io and tell me how it felt: it helps more people find it.",
+      "boton": "Rate it on itch.io"
+    }
+  },
+  "versiones": [
+    {
+      "ver": "0.0.0.36",
+      "edicion": "AMBAS",
+      "resumen": "Cada disparo pega más duro en las tres armas, reaccionan a donde les pegas y a veces ni así caen, la sangre se queda en el piso, pantallas de carga nuevas y regresas directo al lobby al terminar. En la completa eliges la luz antes de entrar.",
+      "en": "Every shot hits harder on all three guns, they react to where you hit them and sometimes don't go down at all, blood stays on the floor, new loading screens and you go straight back to the lobby after a match. In the Full Edition you pick the light before going in."
     },
-    "demo": {
-        "activo": true,
-        "titulo": "Ya casi sale lo nuevo",
-        "texto": "Acabo de jugar la versión que viene y se siente otra cosa: la cámara se dobla como una bodycam de verdad, los balazos dejan marca donde pegan y nadie cae igual que otro. Ya casi sale. Si te gustó la Casa de tiro, en la edición completa te esperan La Casona y Contacto directo con dron. Hoy cuesta 4.99 USD y va a subir cuando salga lo nuevo.",
-        "boton": "Ver edición completa",
-        "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
-        "en": {
-            "titulo": "The new stuff is almost here",
-            "texto": "I just played the next version and it feels different: the camera bends like a real bodycam, bullets leave a mark where they hit and nobody falls the same way twice. It's almost out. If you liked the Shooting House, the Full Edition has La Casona and Direct Contact with a drone. It's 4.99 USD today and the price goes up when the new stuff lands.",
-            "boton": "Get the Full Edition"
-        }
+    {
+      "ver": "0.0.0.35",
+      "resumen": "Nuevo modo Contacto directo (equipos de 2 contra 2 y 4 contra 4 con dron), polvo en cada balazo, caídas más reales, bots más listos que ya no se atoran, armas del lobby más reales y pestaña Novedades.",
+      "en": "New Direct Contact mode (team matches, 2v2 and 4v4, with a drone), dust on every shot, more real falls, smarter bots that don't get stuck, more real-looking guns in the lobby and a News tab.",
+      "edicion": "COMPLETA"
     },
-    "completa": {
-        "activo": true,
-        "titulo": "Ya casi sale",
-        "texto": "Gracias por jugar desde tan temprano. La versión que viene es la más grande hasta hoy: la cámara se dobla como una bodycam de verdad, los balazos dejan marca y cada caída es distinta. Cuando la juegues, cuéntame en itch.io qué se sintió.",
-        "boton": "Dejar opinión en itch.io",
-        "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha#comments",
-        "en": {
-            "titulo": "Almost here",
-            "texto": "Thanks for playing this early. The next version is the biggest one yet: the camera bends like a real bodycam, bullets leave a mark and every fall is different. When you play it, tell me on itch.io how it felt.",
-            "boton": "Leave feedback on itch.io"
-        }
+    {
+      "ver": "0.0.0.34",
+      "resumen": "Se ve más real, los bots son más listos, lobby nuevo, armería con granada y la luz de La Casona cambia en cada partida.",
+      "en": "Looks more real, smarter bots, a new lobby, an armory with a grenade and La Casona's light changes every match.",
+      "edicion": "COMPLETA"
     },
-    "versiones": [
-        {
-            "ver": "0.0.0.35",
-            "resumen": "Nuevo modo Contacto directo (equipos de 2 contra 2 y 4 contra 4 con dron), polvo en cada balazo, caídas más reales, bots más listos que ya no se atoran, armas del lobby más reales y pestaña Novedades.",
-            "en": "New Direct Contact mode (team matches, 2v2 and 4v4, with a drone), dust on every shot, more real falls, smarter bots that don't get stuck, more real-looking guns in the lobby and a News tab."
-        },
-        {
-            "ver": "0.0.0.34",
-            "resumen": "Se ve más real, los bots son más listos, lobby nuevo, armería con granada y la luz de La Casona cambia en cada partida.",
-            "en": "Looks more real, smarter bots, a new lobby, an armory with a grenade and La Casona's light changes every match."
-        },
-        {
-            "ver": "0.0.0.33",
-            "resumen": "Recarga de escopeta mejorada, partidas de equipos más parejas y subes escaleras sin atorarte.",
-            "en": "Better shotgun reload, fairer team matches and no more getting stuck on stairs."
-        },
-        {
-            "ver": "0.0.0.32",
-            "resumen": "Las cosas se rompen, el humo del tiroteo se queda en el aire, ventanas que se rompen y los bots hablan.",
-            "en": "Things break, gunfire smoke hangs in the air, windows shatter and the bots talk."
-        }
-    ]
+    {
+      "ver": "0.0.0.33",
+      "resumen": "Recarga de escopeta mejorada, partidas de equipos más parejas y subes escaleras sin atorarte.",
+      "en": "Better shotgun reload, fairer team matches and no more getting stuck on stairs.",
+      "edicion": "AMBAS"
+    },
+    {
+      "ver": "0.0.0.32",
+      "resumen": "Las cosas se rompen, el humo del tiroteo se queda en el aire, ventanas que se rompen y los bots hablan.",
+      "en": "Things break, gunfire smoke hangs in the air, windows shatter and the bots talk.",
+      "edicion": "AMBAS"
+    }
+  ]
 }
