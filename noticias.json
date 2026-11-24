@@ -1,6 +1,6 @@
 {
   "activo": true,
-  "version": "0.0.0.36",
+  "version": "0.0.0.37",
   "titulo": "Ya salió lo nuevo",
   "texto": "Ya está la 0.0.0.36 y se siente otra cosa: cada disparo pega más duro, ves justo dónde cae cada balazo y no todos caen igual; a veces ni así caen. Si te gustó la Casa de tiro, en la edición completa te esperan La Casona, donde eliges la luz antes de entrar, y Contacto directo con dron. Hoy cuesta 4.99 USD y va a subir conforme lleguen mapas y modos nuevos.",
   "boton": "Ver edición completa",
@@ -35,6 +35,12 @@
     }
   },
   "versiones": [
+    {
+      "ver": "0.0.0.37",
+      "edicion": "AMBAS",
+      "resumen": "Los cascos que salen volando ya caen y se quedan en el piso como de verdad, y la pestaña Novedades se lee mucho mejor.",
+      "en": "Helmets that fly off now fall and settle on the floor like the real thing, and the News tab is much easier to read."
+    },
     {
       "ver": "0.0.0.36",
       "edicion": "AMBAS",
