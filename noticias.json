@@ -1,36 +1,36 @@
 {
     "activo": true,
     "version": "0.0.0.35",
-    "titulo": "La próxima versión es la más grande hasta hoy",
-    "texto": "Ya casi sale: la cámara se ve como el lente de una bodycam de verdad, las heridas salen donde pega cada balazo y la sangre se queda en el piso, chalecos antibalas, enemigos que se tambalean al recibir un tiro, ves tu propio cuerpo al voltear abajo y 2 uniformes nuevos. Míralo en video en la página de itch.io. La edición completa cuesta 4.99 USD en acceso anticipado y subirá de precio con todo esto. Si la compras ahora, todo lo nuevo es tuyo sin pagar más.",
+    "titulo": "Lo que viene lo cambia todo",
+    "texto": "La próxima actualización es el salto más grande que ha dado Flow Fire. Nuestro sistema de muertes realistas más avanzado hasta hoy. No te cuento más: entra a la página de itch.io, mira los clips y dime si eso todavía parece un juego. La edición completa cuesta 4.99 USD en acceso anticipado y va a subir. Entra ahora y todo lo que siga es tuyo.",
     "boton": "Ver edición completa",
     "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
     "en": {
-        "titulo": "The next update is the biggest one yet",
-        "texto": "Almost here: the camera looks like a real bodycam lens, wounds show up where each bullet hits and the blood stays on the floor, bulletproof vests, enemies that stagger when hit, you see your own body when you look down, and 2 new uniforms. See it on the itch.io page. The Full Edition is 4.99 USD during early access and the price will go up with all this. Buy it now and everything new is yours at no extra cost.",
+        "titulo": "What's coming changes everything",
+        "texto": "The next update is the biggest jump Flow Fire has ever taken. Our most advanced realistic death system yet. I won't spoil it: check the clips on the itch.io page and tell me if it still looks like a game. The Full Edition is 4.99 USD in early access and the price is going up. Get in now and everything after is yours.",
         "boton": "Get the Full Edition"
     },
     "demo": {
         "activo": true,
-        "titulo": "La próxima versión es la más grande hasta hoy",
-        "texto": "Ya casi sale: la cámara se ve como el lente de una bodycam de verdad, las heridas salen donde pega cada balazo y la sangre se queda en el piso, chalecos antibalas, enemigos que se tambalean al recibir un tiro, ves tu propio cuerpo al voltear abajo y 2 uniformes nuevos. Míralo en video en la página de itch.io. La edición completa cuesta 4.99 USD en acceso anticipado y subirá de precio con todo esto. Si la compras ahora, todo lo nuevo es tuyo sin pagar más.",
+        "titulo": "Lo que viene lo cambia todo",
+        "texto": "La próxima actualización es el salto más grande que ha dado Flow Fire. Nuestro sistema de muertes realistas más avanzado hasta hoy. No te cuento más: entra a la página de itch.io, mira los clips y dime si eso todavía parece un juego. La edición completa cuesta 4.99 USD en acceso anticipado y va a subir. Entra ahora y todo lo que siga es tuyo.",
         "boton": "Ver edición completa",
         "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
         "en": {
-            "titulo": "The next update is the biggest one yet",
-            "texto": "Almost here: the camera looks like a real bodycam lens, wounds show up where each bullet hits and the blood stays on the floor, bulletproof vests, enemies that stagger when hit, you see your own body when you look down, and 2 new uniforms. See it on the itch.io page. The Full Edition is 4.99 USD during early access and the price will go up with all this. Buy it now and everything new is yours at no extra cost.",
+            "titulo": "What's coming changes everything",
+            "texto": "The next update is the biggest jump Flow Fire has ever taken. Our most advanced realistic death system yet. I won't spoil it: check the clips on the itch.io page and tell me if it still looks like a game. The Full Edition is 4.99 USD in early access and the price is going up. Get in now and everything after is yours.",
             "boton": "Get the Full Edition"
         }
     },
     "completa": {
         "activo": true,
-        "titulo": "La versión más grande ya casi sale, y ya es tuya",
-        "texto": "Gracias por apoyar Flow Fire. Ya casi sale la versión más grande: cámara como lente de bodycam real, heridas donde pega cada balazo, chalecos antibalas, enemigos que se tambalean, tu propio cuerpo al voltear abajo y 2 uniformes nuevos. Te llega sin pagar más. ¿Qué te gustaría que llegara después? Cuéntanos en itch.io.",
+        "titulo": "Lo que viene ya es tuyo",
+        "texto": "Gracias por estar desde el principio. La próxima actualización es el salto más grande que ha dado Flow Fire, con nuestro sistema de muertes realistas más avanzado. No te cuento más: te va a llegar sin pagar nada. Cuando la juegues, cuéntame en itch.io qué sentiste.",
         "boton": "Dejar opinión en itch.io",
         "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha#comments",
         "en": {
-            "titulo": "The biggest update is almost here, and it's yours",
-            "texto": "Thanks for supporting Flow Fire. The biggest update is almost here: a camera that looks like a real bodycam lens, wounds where each bullet hits, bulletproof vests, enemies that stagger, your own body when you look down and 2 new uniforms. You get it at no extra cost. What would you like next? Tell us on itch.io.",
+            "titulo": "What's coming is already yours",
+            "texto": "Thanks for being here from the start. The next update is the biggest jump Flow Fire has ever taken, with our most advanced realistic death system yet. I won't spoil it: it's coming to you at no cost. When you play it, tell me on itch.io how it felt.",
             "boton": "Leave feedback on itch.io"
         }
     },
