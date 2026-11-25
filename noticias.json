@@ -1,40 +1,46 @@
 {
   "activo": true,
-  "version": "0.0.0.37",
-  "titulo": "Ya salió lo nuevo",
-  "texto": "Ya está la 0.0.0.36 y se siente otra cosa: cada disparo pega más duro, ves justo dónde cae cada balazo y no todos caen igual; a veces ni así caen. Si te gustó la Casa de tiro, en la edición completa te esperan La Casona, donde eliges la luz antes de entrar, y Contacto directo con dron. Hoy cuesta 4.99 USD y va a subir conforme lleguen mapas y modos nuevos.",
+  "version": "0.0.0.38",
+  "titulo": "Ya salió la 0.0.0.38",
+  "texto": "Cambió la luz por completo: sol real entrando por las ventanas, sombras que se mueven, humo y chispas en cada disparo y las tres armas más pulidas. En la edición completa puedes jugar Casa de tiro y La Casona de Día, Tarde o Penumbra, más Contacto directo con dron. Hoy cuesta 4.99 USD y va a subir conforme lleguen mapas y modos nuevos.",
   "boton": "Ver edición completa",
   "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
   "en": {
-    "titulo": "The new stuff is out",
-    "texto": "0.0.0.36 is out and it feels different: every shot hits harder, you see exactly where each bullet lands and they don't all go down the same way; sometimes they don't go down at all. If you liked the Shooting House, the Full Edition has La Casona, where you pick the light before going in, and Direct Contact with a drone. It's 4.99 USD today and the price goes up as new maps and modes land.",
+    "titulo": "0.0.0.38 is out",
+    "texto": "The lighting changed completely: real sunlight coming through the windows, sharp shadows, real smoke and impact sparks on every shot, and all three guns refined. In the Full Edition you can play the Shooting House and La Casona at Day, Sunset, or Night, plus Direct Contact with a drone. It is 4.99 USD today and goes up as new maps and modes land.",
     "boton": "Get the Full Edition"
   },
   "demo": {
     "activo": true,
-    "titulo": "Ya salió lo nuevo",
-    "texto": "Ya está la 0.0.0.36 y se siente otra cosa: cada disparo pega más duro, ves justo dónde cae cada balazo y no todos caen igual; a veces ni así caen. Si te gustó la Casa de tiro, en la edición completa te esperan La Casona, donde eliges la luz antes de entrar, y Contacto directo con dron. Hoy cuesta 4.99 USD y va a subir conforme lleguen mapas y modos nuevos.",
+    "titulo": "Ya salió la 0.0.0.38",
+    "texto": "Cambió la luz por completo: sol real entrando por las ventanas, sombras que se mueven, humo y chispas en cada disparo y las tres armas más pulidas. En la edición completa puedes jugar Casa de tiro y La Casona de Día, Tarde o Penumbra, más Contacto directo con dron. Hoy cuesta 4.99 USD y va a subir conforme lleguen mapas y modos nuevos.",
     "boton": "Ver edición completa",
     "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
     "en": {
-      "titulo": "The new stuff is out",
-      "texto": "0.0.0.36 is out and it feels different: every shot hits harder, you see exactly where each bullet lands and they don't all go down the same way; sometimes they don't go down at all. If you liked the Shooting House, the Full Edition has La Casona, where you pick the light before going in, and Direct Contact with a drone. It's 4.99 USD today and the price goes up as new maps and modes land.",
+      "titulo": "0.0.0.38 is out",
+      "texto": "The lighting changed completely: real sunlight coming through the windows, sharp shadows, real smoke and impact sparks on every shot, and all three guns refined. In the Full Edition you can play the Shooting House and La Casona at Day, Sunset, or Night, plus Direct Contact with a drone. It is 4.99 USD today and goes up as new maps and modes land.",
       "boton": "Get the Full Edition"
     }
   },
   "completa": {
     "activo": true,
-    "titulo": "Ya salió la 0.0.0.36",
-    "texto": "Gracias por jugar desde tan temprano. Ya tienes la versión más grande hasta hoy: cada disparo pega más duro, reaccionan a donde les pegas y ahora eliges la luz de La Casona antes de entrar. Si tienes un minuto, califícalo en itch.io y cuéntame qué se sintió: eso ayuda a que más gente lo encuentre.",
+    "titulo": "Ya salió la 0.0.0.38",
+    "texto": "Gracias por apoyar desde tan temprano. Ya tienes la luz nueva en Casa de tiro y La Casona: prueba entrar de Día, Tarde o Penumbra y checa cómo se ven los disparos y el humo ahora. Si tienes un minuto, califícalo en itch.io y dime qué hora se siente más real.",
     "boton": "Calificar en itch.io",
     "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha#comments",
     "en": {
-      "titulo": "0.0.0.36 is out",
-      "texto": "Thanks for playing this early. You now have the biggest version yet: every shot hits harder, they react to where you hit them and you pick La Casona's light before going in. If you have a minute, rate it on itch.io and tell me how it felt: it helps more people find it.",
+      "titulo": "0.0.0.38 is out",
+      "texto": "Thanks for backing the game this early. You now have the new lighting across both maps: try Day, Sunset, and Night and see how shots and smoke feel now. If you have a minute, rate it on itch.io and tell me which time of day feels most real.",
       "boton": "Rate it on itch.io"
     }
   },
   "versiones": [
+    {
+      "ver": "0.0.0.38",
+      "edicion": "AMBAS",
+      "resumen": "Luz y cielo nuevos en los dos mapas, disparos con humo y chispas que reaccionan a la luz, lente más limpio, caídas y bots más humanos y las tres armas pulidas. En la completa, luz propia para Día, Tarde y Penumbra.",
+      "en": "New lighting and sky on both maps, shots with smoke and impacts that react to light, cleaner bodycam lens, more human bots and falls, and all three guns refined. In the Full Edition, dedicated lighting for Day, Sunset, and Night."
+    },
     {
       "ver": "0.0.0.37",
       "edicion": "AMBAS",
