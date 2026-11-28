@@ -1,40 +1,46 @@
 {
   "activo": true,
-  "version": "0.0.0.38",
-  "titulo": "Black Friday: 20% de descuento ($3.99 USD)",
-  "texto": "Del 27 de noviembre al 2 de diciembre la edición completa de FLOW FIRE tiene 20% de descuento por Black Friday y Creator Day ($3.99 USD, menos de 80 pesos). Incluye La Casona (dos pisos, sótano y patio), Contacto directo 2 contra 2 y 4 contra 4 con dron en vivo, selección de luz y Casa de tiro. Acepta tarjeta y PayPal.",
-  "boton": "Ver oferta en itch.io",
-  "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
+  "version": "0.0.0.40",
+  "titulo": "YA SALIÓ LA GRAN ACTUALIZACIÓN v0.0.0.40 (-20% · $3.99 USD)",
+  "texto": "Llegaron Zombis en el Cementerio nocturno, Oficinas a oscuras, Bomba Corporal 2v2/4v4, Combate libre, MP5, Desert Eagle y modelos nuevos de operadores. Aprovecha el -20% de Black Friday ($3.99 USD, menos de 80 pesos) hasta el 2 de diciembre antes de que suba de precio.",
+  "boton": "Ver Completa (-20%)",
+  "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha/purchase",
   "en": {
-    "titulo": "Black Friday Sale: 20% Off ($3.99 USD)",
-    "texto": "From Nov 27 to Dec 2, the Full Edition of FLOW FIRE is 20% off for Black Friday & Creator Day ($3.99 USD). Includes La Casona (two-story house, basement and yard), 2v2 & 4v4 Direct Contact with live recon drone, lighting selection, and the Shooting House. Card & PayPal accepted.",
-    "boton": "Get 20% Off on itch.io"
+    "titulo": "HUGE UPDATE v0.0.0.40 IS LIVE (-20% · $3.99 USD)",
+    "texto": "Midnight Cemetery Zombies, Abandoned Offices blackout, Body Bomb 2v2/4v4, Free-for-All, MP5, Desert Eagle, and brand-new operator models just landed. Grab -20% Off ($3.99 USD) through Dec 2 before the price increases.",
+    "boton": "Get Full Edition (-20%)"
   },
   "demo": {
     "activo": true,
-    "titulo": "Black Friday: 20% de descuento ($3.99 USD)",
-    "texto": "Del 27 de noviembre al 2 de diciembre la edición completa tiene 20% de descuento por Black Friday y Creator Day ($3.99 USD, menos de 80 pesos). Desbloquea La Casona, Contacto directo 2 contra 2 y 4 contra 4 con dron en vivo y luz de Día, Tarde o Penumbra. Acepta tarjeta y PayPal.",
-    "boton": "Ver oferta ($3.99 USD)",
-    "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha",
+    "titulo": "GRAN ACTUALIZACIÓN v0.0.0.40 (-20% · $3.99 USD)",
+    "texto": "Ya tienes los nuevos modelos de operadores, tiroteos más vivos e impactos reales en la demo. En la Edición Completa acaban de llegar Zombis en el Cementerio, Oficinas a oscuras, Bomba Corporal, Combate libre, MP5 y Desert Eagle. Aprovecha $3.99 USD hasta el 2 dic antes de que suba de precio.",
+    "boton": "Desbloquear Completa ($3.99)",
+    "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha/purchase",
     "en": {
-      "titulo": "Black Friday Sale: 20% Off ($3.99 USD)",
-      "texto": "From Nov 27 to Dec 2, the Full Edition is 20% off for Black Friday & Creator Day ($3.99 USD). Unlocks La Casona, 2v2 & 4v4 Direct Contact with live recon drone, and Day/Sunset/Night lighting. Card & PayPal accepted.",
-      "boton": "Get Full Edition ($3.99)"
+      "titulo": "HUGE UPDATE v0.0.0.40 (-20% · $3.99 USD)",
+      "texto": "New operator models, smarter gunfights, and real material impacts are now in the demo. The Full Edition just added Midnight Cemetery Zombies, Blackout Offices, Body Bomb, Free-for-All, MP5 & Desert Eagle. Grab Early Access at $3.99 through Dec 2 before the price rises.",
+      "boton": "Unlock Full Edition ($3.99)"
     }
   },
   "completa": {
     "activo": true,
-    "titulo": "Ya salió la 0.0.0.38 · Creator Day",
-    "texto": "Gracias por apoyar FLOW FIRE desde tan temprano. Ya tienes la luz nueva en Casa de tiro y La Casona, humo en cada disparo y bots más reales. Hoy es Creator Day en itch.io: si te está gustando el juego, dejar una calificación o comentario en itch ayuda muchísimo a que más jugadores de PC lo descubran.",
+    "titulo": "Ya salió v0.0.0.40 · Gracias por entrar temprano",
+    "texto": "Bienvenido a la actualización más grande de FLOW FIRE: Cementerio nocturno, Oficinas a oscuras, Supervivencia Zombis, Bomba Corporal, Combate libre, MP5, Desert Eagle y operadores nuevos. Esto apenas comienza — si te gustó, una calificación o comentario en itch.io nos ayuda muchísimo a seguir creciendo.",
     "boton": "Calificar en itch.io",
     "enlace": "https://masterinc.itch.io/flow-fire-pre-alpha/rate",
     "en": {
-      "titulo": "v0.0.0.38 is out · Creator Day",
-      "texto": "Thanks for backing FLOW FIRE this early. You have the new lighting across both maps, gunfire smoke, and upgraded bots. Today is itch.io Creator Day: if you're enjoying the game, leaving a quick rating or comment on itch helps other PC players find it.",
+      "titulo": "v0.0.0.40 is LIVE · Thanks for backing early",
+      "texto": "Welcome to FLOW FIRE's biggest update yet: Midnight Cemetery, Blackout Offices, Zombie Survival, Body Bomb, Free-for-All, MP5, Desert Eagle & new operator models. We're just getting started — a quick rating or comment on itch.io helps a ton.",
       "boton": "Rate on itch.io"
     }
   },
   "versiones": [
+    {
+      "ver": "0.0.0.40",
+      "edicion": "AMBAS",
+      "resumen": "El mayor salto del juego: nuevos modelos realistas de operadores, enemigos que se asoman por esquinas, tienden emboscadas y se resisten antes de caer, impactos fieles a cada material, focos rompibles y reinicio rápido. En la Completa: Cementerio nocturno, Oficinas a oscuras, Supervivencia Zombis (3 criaturas), Bomba Corporal 2v2/4v4, Combate libre, cámara en vivo de aliados, MP5 y Desert Eagle.",
+      "en": "Our biggest leap yet: new realistic operator models, enemies that peek corners, set ambushes and stumble before falling, material-accurate impacts, shootable lights, and instant restart. In the Full Edition: Midnight Cemetery, Blackout Offices, Zombie Survival (3 creatures), Body Bomb 2v2/4v4, Free-for-All, live ally bodycams, MP5 & Desert Eagle."
+    },
     {
       "ver": "0.0.0.38",
       "edicion": "AMBAS",
